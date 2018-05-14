@@ -29032,6 +29032,7 @@ pull-up from INT</text>
 <text x="60.96" y="76.2" size="1.778" layer="97" font="vector">I C Connections</text>
 <text x="62.23" y="77.47" size="1.27" layer="97" font="vector">2</text>
 <text x="101.6" y="177.8" size="1.778" layer="97" font="vector">VL53L1X Distance Sensor</text>
+<text x="101.6" y="175.26" size="1.778" layer="97">VCC: 2.3V-3.5V</text>
 </plain>
 <instances>
 <instance part="GND1" gate="1" x="101.6" y="116.84"/>
