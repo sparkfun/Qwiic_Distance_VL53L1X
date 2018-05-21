@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.7.0">
+<eagle version="9.0.1">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
+<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -28852,8 +28853,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-0.35" y1="-1.25" x2="-2.45" y2="-1.25" width="0.127" layer="51"/>
 <wire x1="-2.45" y1="-1.25" x2="-2.45" y2="1.25" width="0.127" layer="51"/>
 <wire x1="-2.45" y1="1.25" x2="-0.35" y2="1.25" width="0.127" layer="51"/>
-<text x="-2.45" y="1.75" size="0.508" layer="25">&gt;Name</text>
-<text x="-2.45" y="-2.25" size="0.508" layer="27">&gt;Value</text>
+<text x="-2.45" y="1.75" size="0.508" layer="25" font="vector">&gt;Name</text>
+<text x="-2.45" y="-2.25" size="0.508" layer="27" font="vector">&gt;Value</text>
 <circle x="1.6" y="-1.8" radius="0.14141875" width="0" layer="21"/>
 <wire x1="-0.35" y1="1.25" x2="0.35" y2="1.25" width="0.127" layer="51"/>
 <wire x1="0.35" y1="1.25" x2="2.45" y2="1.25" width="0.127" layer="51"/>
@@ -29019,8 +29020,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheets>
 <sheet>
 <plain>
-<text x="170.434" y="11.43" size="2.54" layer="94">N. Seidle</text>
-<text x="237.744" y="7.366" size="2.54" layer="94" font="vector">v01</text>
+<text x="170.434" y="11.43" size="2.54" layer="94" font="vector">N. Seidle</text>
+<text x="237.744" y="7.366" size="2.54" layer="94" font="vector">v10</text>
 <text x="91.44" y="109.22" size="1.778" layer="97" font="vector">7-bit unshifted I2C address: 0x29</text>
 <text x="157.48" y="149.86" size="1.778" layer="97" font="vector">Clear Jumper to remove 
 I2C Pull-ups from bus</text>
