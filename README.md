@@ -22,9 +22,15 @@ Repository Contents
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Software** - Processing Example showing how to manipulate graphics using quaternions
 
-Library
+Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library)** - Library for reading distance in millimeters, signal rate, status, etc.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-distance-sensor-vl53l1x-hookup-guide)
+
+Product Versions
+--------------
+[SEN-14722](https://www.sparkfun.com/products/14722) - SparkFun red version
+[SPX-14667](https://www.sparkfun.com/products/14667) - SparkX Version 
 
 License Information
 -------------------
