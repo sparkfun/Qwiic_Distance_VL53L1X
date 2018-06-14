@@ -17,10 +17,9 @@ Buy a [breakout board](https://www.sparkfun.com/products/14722) from SparkFun!
 Repository Contents
 -------------------
 
-* **/Documents** - Datasheets
-* **/DataCapture** - A capture of the I2C traffic from the ST X-NUCLEO-53L1A1 evaluation kit.
+* **/Documents** - Datasheet and User Manual
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Software** - Processing Example showing how to manipulate graphics using quaternions
+* **/Production** - .brd files
 
 Documentation
 --------------
