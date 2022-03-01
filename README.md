@@ -24,7 +24,7 @@ Repository Contents
 Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library)** - Library for reading distance in millimeters, signal rate, status, etc.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-distance-sensor-vl53l1x-hookup-guide)**
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-distance-sensor-vl53l1x-vl53l4cd-hookup-guide)** - Basic hookup guide for the VL53L1X and VL53L4CD.
 
 Product Versions
 --------------
